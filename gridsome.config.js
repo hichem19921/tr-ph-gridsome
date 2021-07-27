@@ -6,5 +6,6 @@
 
 module.exports = {
   siteName: 'Gridsome',
+  siteName: 'tr-ph-gridsome',
   plugins: []
 }
